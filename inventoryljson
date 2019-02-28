@@ -1,0 +1,260 @@
+{
+	"columns": [
+		{
+			"column_search": false,
+			"title": "Details",
+			"name": "details",
+			"data": "Details",
+			"visible": true,
+			"class": "details-control dt-center",
+			"width": "20px",
+			"orderable": "false",
+			"data": "null",
+			"defaultContent": "<i class=\"fas dtcontrol fa-chevron-circle-down text-success\" aria-hidden=\"true\"></i>"
+		},
+		{
+			"column_search": true,
+			"title": "Internal SKU",
+			"name": "internal_sku",
+			"data": "Internal SKU",
+			"visible": true,
+			"class": "dt-center"
+		},
+		{
+			"column_search": true,
+			"title": "Supplier SKU",
+			"name": "supplier_sku",
+			"data": "Supplier SKU",
+			"visible": true,
+			"class": "dt-center"
+		},
+        {
+			"column_search": true,
+			"title": "Supplier",
+			"name": "supplier",
+			"data": "Supplier",
+			"visible": true
+		},
+		{
+			"column_search": false,
+			"title": "Image",
+			"name": "image",
+			"data": "Image",
+			"visible": true,
+			"class": "dt-center"
+		},
+		{
+			"column_search": true,
+			"title": "Product Name",
+			"name": "product_name",
+			"data": "Product Name",
+			"visible": true
+		},
+		{
+			"column_search": true,
+			"title": "Brand",
+			"name": "brand",
+			"data": "Brand",
+			"visible": true
+		},
+		{
+			"column_search": false,
+			"title": "Cost",
+			"name": "cost",
+			"data": "Cost",
+			"visible": false,
+			"class": "dt-center"
+		},
+		{
+			"column_search": false,
+			"title": "MWQ",
+			"name": "mwq",
+			"data": "MWQ",
+			"visible": true,
+			"class": "dt-center editable"
+		},
+		{
+			"column_search": false,
+			"title": "Warehouse In-Bound",
+			"name": "warehouse_inbound",
+			"data": "Warehouse In-Bound",
+			"visible": true,
+			"class": "dt-center"
+		},
+		{
+			"column_search": false,
+			"title": "UoM",
+			"name": "uom",
+			"data": "UoM",
+			"visible": true,
+			"class": "dt-center"
+		},
+		{
+			"column_search": false,
+			"title": "UoM Weight",
+			"name": "uom_weight",
+			"data": "UoM Weight",
+			"visible": true,
+			"class": "dt-center"
+		},
+        {
+			"column_search": false,
+			"title": "Warehouse Stock",
+			"name": "warehouse_stock",
+			"data": "Warehouse Stock",
+			"visible": true,
+			"class": "dt-center",
+			"width": "120px"
+		},
+		{
+			"column_search": true,
+			"title": "Associated ASIN",
+			"name": "associated_asin",
+			"data": "Associated ASIN",
+			"visible": true,
+			"class": "dt-center",
+			"width": "147px"
+		},
+		{
+			"column_search": false,
+			"title": "Actions",
+			"name": "actions",
+			"data": "Actions",
+			"visible": true,
+			"class": "dt-center",
+			"width": "80px"
+		}
+	],
+	"data": [{
+		  "DT_RowId": "row_1",
+		  "Internal SKU": "pGDrYYfgh6u",
+		  "Supplier SKU": "rKSVXR",
+		  "Supplier": "Feedmix",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/71I08xr1bdL._SL1000_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Holdlamis",
+		  "Brand": "Riverside",
+		  "Cost": "$119.62",
+		  "MWQ": "310",
+		  "Warehouse In-Bound": "166",
+		  "UoM": "217 boxes",
+		  "UoM Weight": "443 oz",
+		  "Warehouse Stock": "192",
+		  "Associated ASIN": "R2rKStY",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_2",
+		  "Internal SKU": "GJd4jkB2Od",
+		  "Supplier SKU": "kASsoxb8I8",
+		  "Supplier": "Fliptune",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/81TWmxxPmLL._SL1497_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Greenlam",
+		  "Brand": "Brickson Park",
+		  "Cost": "$179.21",
+		  "MWQ": "363",
+		  "Warehouse In-Bound": "495",
+		  "UoM": "204 bars",
+		  "UoM Weight": "384 lbs",
+		  "Warehouse Stock": "439",
+		  "Associated ASIN": "tYxDxuzpW9",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_3",
+		  "Internal SKU": "ss56Y0",
+		  "Supplier SKU": "M1VYKo31b2",
+		  "Supplier": "Avavee",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/71ToZO5vjJL._SL1000_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Zontrax",
+		  "Brand": "Moland",
+		  "Cost": "$202.96",
+		  "MWQ": "331",
+		  "Warehouse In-Bound": "388",
+		  "UoM": "24 boxes",
+		  "UoM Weight": "90 lbs",
+		  "Warehouse Stock": "294",
+		  "Associated ASIN": "WccxYaXr9",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_4",
+		  "Internal SKU": "UUeCcCf",
+		  "Supplier SKU": "uqZO84bqNepQ",
+		  "Supplier": "Roomm",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/912vny34GEL._SL1500_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Otcom",
+		  "Brand": "Farragut",
+		  "Cost": "$87.36",
+		  "MWQ": "321",
+		  "Warehouse In-Bound": "136",
+		  "UoM": "101 bags",
+		  "UoM Weight": "179 lbs",
+		  "Warehouse Stock": "237",
+		  "Associated ASIN": "hfJjKuG81",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_5",
+		  "Internal SKU": "zkBCYq",
+		  "Supplier SKU": "cuyRscN",
+		  "Supplier": "Fivespan",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/91nEZxybLpL._SL1500_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Otcom",
+		  "Brand": "Moland",
+		  "Cost": "$204.71",
+		  "MWQ": "195",
+		  "Warehouse In-Bound": "248",
+		  "UoM": "239 boxes",
+		  "UoM Weight": "104 oz",
+		  "Warehouse Stock": "200",
+		  "Associated ASIN": "ZAN9aT1B",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_6",
+		  "Internal SKU": "iNonU8sZEOT",
+		  "Supplier SKU": "rh44YmBFW9R",
+		  "Supplier": "Thoughtstorm",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/917nXv8FSML._SL1500_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Stronghold",
+		  "Brand": "Algoma",
+		  "Cost": "$252.70",
+		  "MWQ": "187",
+		  "Warehouse In-Bound": "308",
+		  "UoM": "28 bars",
+		  "UoM Weight": "23 lbs",
+		  "Warehouse Stock": "380",
+		  "Associated ASIN": "B1wrsgV",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_7",
+		  "Internal SKU": "Mp3A9WBR",
+		  "Supplier SKU": "zUPBItJbd4",
+		  "Supplier": "Quire",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/91vWyy5sdHL._SL1500_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Solarbreeze",
+		  "Brand": "Park Meadow",
+		  "Cost": "$260.39",
+		  "MWQ": "310",
+		  "Warehouse In-Bound": "12",
+		  "UoM": "20 boxes",
+		  "UoM Weight": "326 oz",
+		  "Warehouse Stock": "106",
+		  "Associated ASIN": "IIRXEu4zj",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}, {
+		  "DT_RowId": "row_8",
+		  "Internal SKU": "eQ6lfoxt42",
+		  "Supplier SKU": "egCH0wedyas",
+		  "Supplier": "Trudoo",
+		  "Image": "<img src=\"https://images-na.ssl-images-amazon.com/images/I/91yjU2C-KiL._SL1500_.jpg\" class=\"productimage m--img-rounded m--marginless\">",
+		  "Product Name": "Mat Lam Tam",
+		  "Brand": "Eggendart",
+		  "Cost": "$125.44",
+		  "MWQ": "303",
+		  "Warehouse In-Bound": "157",
+		  "UoM": "113 bags",
+		  "UoM Weight": "111 lbs",
+		  "Warehouse Stock": "459",
+		  "Associated ASIN": "07LKrq4Or",
+		  "Actions": "<a href=\"#\" class=\"addtoorderbtn m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Add to Order\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_addtoorder\"><i class=\"fas fa-cart-plus\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Edit Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_edit\"><i class=\"far fa-edit\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Inventory Adjustment\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_adjustment\"><i class=\"fas fa-tools\"></i></a> <a href=\"#\" class=\"m-portlet__nav-link btn m-btn m-btn--hover-brand m-btn--icon m-btn--icon-only m-btn--pill\" title=\"Delete Item\" data-toggle=\"modal\" data-target=\"#m_warehouseinv_delete\"><i class=\"far fa-trash-alt\"></i></a>"
+		}
+		
+	]
+
+}
